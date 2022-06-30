@@ -1,0 +1,96 @@
+C:\Users\cemom\source\repos\MuseumManagementSystem\MuseumManagementSystem\bin\Debug\net5.0-windows\MuseumManagementSystem.exe
+C:\Users\cemom\source\repos\MuseumManagementSystem\MuseumManagementSystem\bin\Debug\net5.0-windows\MuseumManagementSystem.deps.json
+C:\Users\cemom\source\repos\MuseumManagementSystem\MuseumManagementSystem\bin\Debug\net5.0-windows\MuseumManagementSystem.runtimeconfig.json
+C:\Users\cemom\source\repos\MuseumManagementSystem\MuseumManagementSystem\bin\Debug\net5.0-windows\MuseumManagementSystem.runtimeconfig.dev.json
+C:\Users\cemom\source\repos\MuseumManagementSystem\MuseumManagementSystem\bin\Debug\net5.0-windows\MuseumManagementSystem.dll
+C:\Users\cemom\source\repos\MuseumManagementSystem\MuseumManagementSystem\bin\Debug\net5.0-windows\ref\MuseumManagementSystem.dll
+C:\Users\cemom\source\repos\MuseumManagementSystem\MuseumManagementSystem\bin\Debug\net5.0-windows\MuseumManagementSystem.pdb
+C:\Users\cemom\source\repos\MuseumManagementSystem\MuseumManagementSystem\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\cemom\source\repos\MuseumManagementSystem\MuseumManagementSystem\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\cemom\source\repos\MuseumManagementSystem\MuseumManagementSystem\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\cemom\source\repos\MuseumManagementSystem\MuseumManagementSystem\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\cemom\source\repos\MuseumManagementSystem\MuseumManagementSystem\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\cemom\source\repos\MuseumManagementSystem\MuseumManagementSystem\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\cemom\source\repos\MuseumManagementSystem\MuseumManagementSystem\obj\Debug\net5.0-windows\MuseumManagementSystem.csproj.AssemblyReference.cache
+C:\Users\cemom\source\repos\MuseumManagementSystem\MuseumManagementSystem\obj\Debug\net5.0-windows\MuseumManagementSystem.Form1.resources
+C:\Users\cemom\source\repos\MuseumManagementSystem\MuseumManagementSystem\obj\Debug\net5.0-windows\MuseumManagementSystem.Properties.Resources.resources
+C:\Users\cemom\source\repos\MuseumManagementSystem\MuseumManagementSystem\obj\Debug\net5.0-windows\MuseumManagementSystem.csproj.GenerateResource.cache
+C:\Users\cemom\source\repos\MuseumManagementSystem\MuseumManagementSystem\obj\Debug\net5.0-windows\MuseumManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cemom\source\repos\MuseumManagementSystem\MuseumManagementSystem\obj\Debug\net5.0-windows\MuseumManagementSystem.AssemblyInfoInputs.cache
+C:\Users\cemom\source\repos\MuseumManagementSystem\MuseumManagementSystem\obj\Debug\net5.0-windows\MuseumManagementSystem.AssemblyInfo.cs
+C:\Users\cemom\source\repos\MuseumManagementSystem\MuseumManagementSystem\obj\Debug\net5.0-windows\MuseumManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\cemom\source\repos\MuseumManagementSystem\MuseumManagementSystem\obj\Debug\net5.0-windows\MuseumManagementSystem.csproj.CopyComplete
+C:\Users\cemom\source\repos\MuseumManagementSystem\MuseumManagementSystem\obj\Debug\net5.0-windows\MuseumManagementSystem.dll
+C:\Users\cemom\source\repos\MuseumManagementSystem\MuseumManagementSystem\obj\Debug\net5.0-windows\ref\MuseumManagementSystem.dll
+C:\Users\cemom\source\repos\MuseumManagementSystem\MuseumManagementSystem\obj\Debug\net5.0-windows\MuseumManagementSystem.pdb
+C:\Users\cemom\source\repos\MuseumManagementSystem\MuseumManagementSystem\obj\Debug\net5.0-windows\MuseumManagementSystem.genruntimeconfig.cache
+C:\Users\cemom\source\repos\MuseumManagementSystem\MuseumManagementSystem\obj\Debug\net5.0-windows\MuseumManagementSystem.MuseumSystem.resources
+C:\Users\cemom\source\repos\MuseumManagementSystem\MuseumManagementSystem\obj\Debug\net5.0-windows\MuseumManagementSystem.UpdateMember.resources
+C:\Users\cemom\source\repos\MuseumManagementSystem\MuseumManagementSystem\obj\Debug\net5.0-windows\MuseumManagementSystem.AddMember.resources
+C:\Users\cemom\Desktop\Yeni klasör\MuseumManagementSystem\bin\Debug\net5.0-windows\MuseumManagementSystem.exe
+C:\Users\cemom\Desktop\Yeni klasör\MuseumManagementSystem\bin\Debug\net5.0-windows\MuseumManagementSystem.deps.json
+C:\Users\cemom\Desktop\Yeni klasör\MuseumManagementSystem\bin\Debug\net5.0-windows\MuseumManagementSystem.runtimeconfig.json
+C:\Users\cemom\Desktop\Yeni klasör\MuseumManagementSystem\bin\Debug\net5.0-windows\MuseumManagementSystem.runtimeconfig.dev.json
+C:\Users\cemom\Desktop\Yeni klasör\MuseumManagementSystem\bin\Debug\net5.0-windows\MuseumManagementSystem.dll
+C:\Users\cemom\Desktop\Yeni klasör\MuseumManagementSystem\bin\Debug\net5.0-windows\ref\MuseumManagementSystem.dll
+C:\Users\cemom\Desktop\Yeni klasör\MuseumManagementSystem\bin\Debug\net5.0-windows\MuseumManagementSystem.pdb
+C:\Users\cemom\Desktop\Yeni klasör\MuseumManagementSystem\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\cemom\Desktop\Yeni klasör\MuseumManagementSystem\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\cemom\Desktop\Yeni klasör\MuseumManagementSystem\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\cemom\Desktop\Yeni klasör\MuseumManagementSystem\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\cemom\Desktop\Yeni klasör\MuseumManagementSystem\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\cemom\Desktop\Yeni klasör\MuseumManagementSystem\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\cemom\Desktop\Yeni klasör\MuseumManagementSystem\obj\Debug\net5.0-windows\MuseumManagementSystem.csproj.AssemblyReference.cache
+C:\Users\cemom\Desktop\Yeni klasör\MuseumManagementSystem\obj\Debug\net5.0-windows\MuseumManagementSystem.AddMember.resources
+C:\Users\cemom\Desktop\Yeni klasör\MuseumManagementSystem\obj\Debug\net5.0-windows\MuseumManagementSystem.Login.resources
+C:\Users\cemom\Desktop\Yeni klasör\MuseumManagementSystem\obj\Debug\net5.0-windows\MuseumManagementSystem.Properties.Resources.resources
+C:\Users\cemom\Desktop\Yeni klasör\MuseumManagementSystem\obj\Debug\net5.0-windows\MuseumManagementSystem.UpdateMember.resources
+C:\Users\cemom\Desktop\Yeni klasör\MuseumManagementSystem\obj\Debug\net5.0-windows\MuseumManagementSystem.csproj.GenerateResource.cache
+C:\Users\cemom\Desktop\Yeni klasör\MuseumManagementSystem\obj\Debug\net5.0-windows\MuseumManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cemom\Desktop\Yeni klasör\MuseumManagementSystem\obj\Debug\net5.0-windows\MuseumManagementSystem.AssemblyInfoInputs.cache
+C:\Users\cemom\Desktop\Yeni klasör\MuseumManagementSystem\obj\Debug\net5.0-windows\MuseumManagementSystem.AssemblyInfo.cs
+C:\Users\cemom\Desktop\Yeni klasör\MuseumManagementSystem\obj\Debug\net5.0-windows\MuseumManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\cemom\Desktop\Yeni klasör\MuseumManagementSystem\obj\Debug\net5.0-windows\MuseumManagementSystem.csproj.CopyComplete
+C:\Users\cemom\Desktop\Yeni klasör\MuseumManagementSystem\obj\Debug\net5.0-windows\MuseumManagementSystem.dll
+C:\Users\cemom\Desktop\Yeni klasör\MuseumManagementSystem\obj\Debug\net5.0-windows\ref\MuseumManagementSystem.dll
+C:\Users\cemom\Desktop\Yeni klasör\MuseumManagementSystem\obj\Debug\net5.0-windows\MuseumManagementSystem.pdb
+C:\Users\cemom\Desktop\Yeni klasör\MuseumManagementSystem\obj\Debug\net5.0-windows\MuseumManagementSystem.genruntimeconfig.cache
+C:\Users\cemom\Desktop\Yeni klasör\MuseumManagementSystem\obj\Debug\net5.0-windows\MuseumManagementSystem.AddStaff.resources
+C:\Users\cemom\Desktop\Yeni klasör\MuseumManagementSystem\obj\Debug\net5.0-windows\MuseumManagementSystem.MuseumOperation.resources
+C:\Users\cemom\Desktop\Yeni klasör\MuseumManagementSystem\obj\Debug\net5.0-windows\MuseumManagementSystem.AddArtWork.resources
+C:\Users\cemom\Desktop\Yeni klasör\MuseumManagementSystem\obj\Debug\net5.0-windows\MuseumManagementSystem.AddRestoreArtWork.resources
+C:\Users\cemom\Desktop\Yeni klasör\MuseumManagementSystem\obj\Debug\net5.0-windows\MuseumManagementSystem.Show_Sale_ArtWork_And_Sale_Ticket.resources
+C:\Users\cemom\Desktop\Museum Management System\MuseumManagementSystem\bin\Debug\net5.0-windows\MuseumManagementSystem.exe
+C:\Users\cemom\Desktop\Museum Management System\MuseumManagementSystem\bin\Debug\net5.0-windows\MuseumManagementSystem.deps.json
+C:\Users\cemom\Desktop\Museum Management System\MuseumManagementSystem\bin\Debug\net5.0-windows\MuseumManagementSystem.runtimeconfig.json
+C:\Users\cemom\Desktop\Museum Management System\MuseumManagementSystem\bin\Debug\net5.0-windows\MuseumManagementSystem.runtimeconfig.dev.json
+C:\Users\cemom\Desktop\Museum Management System\MuseumManagementSystem\bin\Debug\net5.0-windows\MuseumManagementSystem.dll
+C:\Users\cemom\Desktop\Museum Management System\MuseumManagementSystem\bin\Debug\net5.0-windows\ref\MuseumManagementSystem.dll
+C:\Users\cemom\Desktop\Museum Management System\MuseumManagementSystem\bin\Debug\net5.0-windows\MuseumManagementSystem.pdb
+C:\Users\cemom\Desktop\Museum Management System\MuseumManagementSystem\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\cemom\Desktop\Museum Management System\MuseumManagementSystem\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\cemom\Desktop\Museum Management System\MuseumManagementSystem\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\cemom\Desktop\Museum Management System\MuseumManagementSystem\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\cemom\Desktop\Museum Management System\MuseumManagementSystem\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\cemom\Desktop\Museum Management System\MuseumManagementSystem\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\cemom\Desktop\Museum Management System\MuseumManagementSystem\obj\Debug\net5.0-windows\MuseumManagementSystem.csproj.AssemblyReference.cache
+C:\Users\cemom\Desktop\Museum Management System\MuseumManagementSystem\obj\Debug\net5.0-windows\MuseumManagementSystem.AddMember.resources
+C:\Users\cemom\Desktop\Museum Management System\MuseumManagementSystem\obj\Debug\net5.0-windows\MuseumManagementSystem.AddRestoreArtWork.resources
+C:\Users\cemom\Desktop\Museum Management System\MuseumManagementSystem\obj\Debug\net5.0-windows\MuseumManagementSystem.AddStaff.resources
+C:\Users\cemom\Desktop\Museum Management System\MuseumManagementSystem\obj\Debug\net5.0-windows\MuseumManagementSystem.Login.resources
+C:\Users\cemom\Desktop\Museum Management System\MuseumManagementSystem\obj\Debug\net5.0-windows\MuseumManagementSystem.MuseumOperation.resources
+C:\Users\cemom\Desktop\Museum Management System\MuseumManagementSystem\obj\Debug\net5.0-windows\MuseumManagementSystem.Properties.Resources.resources
+C:\Users\cemom\Desktop\Museum Management System\MuseumManagementSystem\obj\Debug\net5.0-windows\MuseumManagementSystem.Show_Sale_ArtWork_And_Sale_Ticket.resources
+C:\Users\cemom\Desktop\Museum Management System\MuseumManagementSystem\obj\Debug\net5.0-windows\MuseumManagementSystem.UpdateMember.resources
+C:\Users\cemom\Desktop\Museum Management System\MuseumManagementSystem\obj\Debug\net5.0-windows\MuseumManagementSystem.csproj.GenerateResource.cache
+C:\Users\cemom\Desktop\Museum Management System\MuseumManagementSystem\obj\Debug\net5.0-windows\MuseumManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cemom\Desktop\Museum Management System\MuseumManagementSystem\obj\Debug\net5.0-windows\MuseumManagementSystem.AssemblyInfoInputs.cache
+C:\Users\cemom\Desktop\Museum Management System\MuseumManagementSystem\obj\Debug\net5.0-windows\MuseumManagementSystem.AssemblyInfo.cs
+C:\Users\cemom\Desktop\Museum Management System\MuseumManagementSystem\obj\Debug\net5.0-windows\MuseumManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\cemom\Desktop\Museum Management System\MuseumManagementSystem\obj\Debug\net5.0-windows\MuseumManagementSystem.csproj.CopyComplete
+C:\Users\cemom\Desktop\Museum Management System\MuseumManagementSystem\obj\Debug\net5.0-windows\MuseumManagementSystem.dll
+C:\Users\cemom\Desktop\Museum Management System\MuseumManagementSystem\obj\Debug\net5.0-windows\ref\MuseumManagementSystem.dll
+C:\Users\cemom\Desktop\Museum Management System\MuseumManagementSystem\obj\Debug\net5.0-windows\MuseumManagementSystem.pdb
+C:\Users\cemom\Desktop\Museum Management System\MuseumManagementSystem\obj\Debug\net5.0-windows\MuseumManagementSystem.genruntimeconfig.cache
+C:\Users\cemom\Desktop\Museum Management System\MuseumManagementSystem\obj\Debug\net5.0-windows\MuseumManagementSystem.BuyArt.resources
+C:\Users\cemom\Desktop\Museum Management System\MuseumManagementSystem\obj\Debug\net5.0-windows\MuseumManagementSystem.Dashboard.resources
